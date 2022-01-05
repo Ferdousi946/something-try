@@ -32,12 +32,14 @@ border-radius:10px ;
     border-radius: 10px;
 }
 #jr{
-    border-left: 10px solid;
-    border-image:linear-gradient(blue,cyan);
-    border-image-slice: 5px;
+   
+    border-left: 5px solid;
+  border-image: linear-gradient(blue, tomato) ;
+  border-image-slice: 1;
 }
-#id{
-    border-left: 10px solid;
-    border-image:linear-gradient(orange,tomato);
-    border-image-slice: 5px;
+#rj{
+    
+  border-left: 5px solid;
+  border-image: linear-gradient(violet, tomato) ;
+  border-image-slice: 1;
 }
